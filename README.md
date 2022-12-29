@@ -1,1 +1,1 @@
-In this project hourly air temperature in Paris is regressed using real-time measurements of 10 weather variables in Brest, London, Marseille and Berlin. This is a solution for the case when meteo-station in Paris breaks down.
+In this project hourly measurements of air temperature in Paris are estimated using the real-time measurements of 10 weather variables in Brest, London, Marseille and Berlin. This is a solution for the case when meteo-station in Paris breaks down.
